@@ -6,7 +6,7 @@ export const hospital = {
   phoneHref: 'tel:+2348064400128',
   whatsapp: '+234 806 440 0128',
   whatsappHref: 'https://wa.me/2348064400128',
-  email: 'Abas@bronchelmedia.site',
+  email: 'shijiazhuanghetaihengkh@gmail.com',
   address: ['No. 12 Feiyi Road', 'Xinhua District, Shijiazhuang', 'Hebei Province, China'],
   logo: 'https://res.cloudinary.com/idmvpeay/image/upload/v1785612572/kidney-logo_ic2e60.jpg',
   hero: 'https://res.cloudinary.com/idmvpeay/image/upload/v1785409636/MAINHERO-IMAGE_tpleae.jpg',
