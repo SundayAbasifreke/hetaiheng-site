@@ -58,6 +58,7 @@ export function Contact() {
     }
 
     setStatus('success');
+    (window as any).fbq?.('track', 'Lead');
     form.reset();
   };
 
